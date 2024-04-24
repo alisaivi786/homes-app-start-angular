@@ -15,6 +15,7 @@ import { RouterLink, RouterOutlet } from '@angular/router';
       <a [routerLink]="['/']">
         <header class="brand-name">
           <img class="brand-logo" src="/assets/logo.svg" alt="logo" aria-hidden="true">
+          <label> this is demo sites by Ali Mushtaq</label>
         </header>
       </a>
       <section class="content">
